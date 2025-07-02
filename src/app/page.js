@@ -58,7 +58,7 @@ export default function Home() {
             transition={{ type: "spring", stiffness: 200, damping: 25 }}
           >
             <Link
-              href="/signin"
+              href="/signup"
               className="mt-6 inline-block bg-yellow-500 text-white px-6 py-3 rounded-lg text-lg hover:bg-yellow-600 transition duration-300"
             >
               Get Started Now
